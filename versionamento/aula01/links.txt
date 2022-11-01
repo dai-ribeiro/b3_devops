@@ -1,2 +1,0 @@
-Repositório: Example Flask Crud
-https://github.com/gurkanakdeniz/example-flask-crud
